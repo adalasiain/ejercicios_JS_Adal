@@ -1,3 +1,4 @@
+//Crea un programa que verifique si un número es positivo, negativo o cero, e imprima el resultado.
 var numero = parseFloat(prompt("Ingresa un número:"));
 var tipo;
 if (numero > 0 ){

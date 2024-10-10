@@ -1,3 +1,4 @@
+//Crea un programa que sume, reste, multiplique y divida dos números y muestre el resultado en la consola.
 var num1 = parseFloat(prompt("Ingresa un número:"));
 var num2 = parseFloat(prompt("Ingresa otro número:"));
 var suma = num1 + num2;

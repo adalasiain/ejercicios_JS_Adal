@@ -1,3 +1,4 @@
+//Crea un programa que convierta grados Celsius a Fahrenheit.
 var numero = prompt("Ingresa los grados Celcius");
 if (isNaN(numero)) {
     numero = prompt("Ingresa un número válido ");
